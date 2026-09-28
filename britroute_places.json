@@ -1,0 +1,398 @@
+[
+  {
+    "id": "london-british-museum",
+    "name": "British Museum",
+    "city": "London",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Bloomsbury"
+  },
+  {
+    "id": "london-tower-of-london",
+    "name": "Tower of London",
+    "city": "London",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Tower Hill"
+  },
+  {
+    "id": "london-tower-bridge",
+    "name": "Tower Bridge",
+    "city": "London",
+    "category": [
+      "sightseeing"
+    ],
+    "area": "Tower Bridge"
+  },
+  {
+    "id": "london-borough-market",
+    "name": "Borough Market",
+    "city": "London",
+    "category": [
+      "food_cafe",
+      "sightseeing"
+    ],
+    "area": "Southwark"
+  },
+  {
+    "id": "london-covent-garden",
+    "name": "Covent Garden",
+    "city": "London",
+    "category": [
+      "shopping",
+      "food_cafe",
+      "sightseeing"
+    ],
+    "area": "Covent Garden"
+  },
+  {
+    "id": "london-hyde-park",
+    "name": "Hyde Park",
+    "city": "London",
+    "category": [
+      "nature"
+    ],
+    "area": "Hyde Park"
+  },
+  {
+    "id": "london-national-gallery",
+    "name": "National Gallery",
+    "city": "London",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Trafalgar Square"
+  },
+  {
+    "id": "london-camden-market",
+    "name": "Camden Market",
+    "city": "London",
+    "category": [
+      "shopping",
+      "food_cafe"
+    ],
+    "area": "Camden"
+  },
+  {
+    "id": "london-westminster-abbey",
+    "name": "Westminster Abbey",
+    "city": "London",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Westminster"
+  },
+  {
+    "id": "london-oxford-street",
+    "name": "Oxford Street",
+    "city": "London",
+    "category": [
+      "shopping"
+    ],
+    "area": "West End"
+  },
+  {
+    "id": "edinburgh-edinburgh-castle",
+    "name": "Edinburgh Castle",
+    "city": "Edinburgh",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Old Town"
+  },
+  {
+    "id": "edinburgh-royal-mile",
+    "name": "Royal Mile",
+    "city": "Edinburgh",
+    "category": [
+      "history_culture",
+      "shopping",
+      "sightseeing"
+    ],
+    "area": "Old Town"
+  },
+  {
+    "id": "edinburgh-arthur-s-seat",
+    "name": "Arthur's Seat",
+    "city": "Edinburgh",
+    "category": [
+      "nature",
+      "sightseeing"
+    ],
+    "area": "Holyrood"
+  },
+  {
+    "id": "edinburgh-palace-of-holyroodhouse",
+    "name": "Palace of Holyroodhouse",
+    "city": "Edinburgh",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Holyrood"
+  },
+  {
+    "id": "edinburgh-national-museum-of-scotland",
+    "name": "National Museum of Scotland",
+    "city": "Edinburgh",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Old Town"
+  },
+  {
+    "id": "edinburgh-calton-hill",
+    "name": "Calton Hill",
+    "city": "Edinburgh",
+    "category": [
+      "nature",
+      "sightseeing"
+    ],
+    "area": "New Town"
+  },
+  {
+    "id": "edinburgh-victoria-street",
+    "name": "Victoria Street",
+    "city": "Edinburgh",
+    "category": [
+      "shopping",
+      "food_cafe",
+      "sightseeing"
+    ],
+    "area": "Old Town"
+  },
+  {
+    "id": "edinburgh-dean-village",
+    "name": "Dean Village",
+    "city": "Edinburgh",
+    "category": [
+      "sightseeing",
+      "nature"
+    ],
+    "area": "Dean Village"
+  },
+  {
+    "id": "edinburgh-princes-street",
+    "name": "Princes Street",
+    "city": "Edinburgh",
+    "category": [
+      "shopping",
+      "sightseeing"
+    ],
+    "area": "New Town"
+  },
+  {
+    "id": "edinburgh-stockbridge",
+    "name": "Stockbridge",
+    "city": "Edinburgh",
+    "category": [
+      "food_cafe",
+      "shopping"
+    ],
+    "area": "Stockbridge"
+  },
+  {
+    "id": "glasgow-kelvingrove-art-gallery-and-museum",
+    "name": "Kelvingrove Art Gallery and Museum",
+    "city": "Glasgow",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Kelvingrove"
+  },
+  {
+    "id": "glasgow-university-of-glasgow",
+    "name": "University of Glasgow",
+    "city": "Glasgow",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Hillhead"
+  },
+  {
+    "id": "glasgow-glasgow-botanic-gardens",
+    "name": "Glasgow Botanic Gardens",
+    "city": "Glasgow",
+    "category": [
+      "nature"
+    ],
+    "area": "Hillhead"
+  },
+  {
+    "id": "glasgow-glasgow-cathedral",
+    "name": "Glasgow Cathedral",
+    "city": "Glasgow",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Cathedral Precinct"
+  },
+  {
+    "id": "glasgow-glasgow-necropolis",
+    "name": "Glasgow Necropolis",
+    "city": "Glasgow",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Cathedral Precinct"
+  },
+  {
+    "id": "glasgow-riverside-museum",
+    "name": "Riverside Museum",
+    "city": "Glasgow",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Partick"
+  },
+  {
+    "id": "glasgow-george-square",
+    "name": "George Square",
+    "city": "Glasgow",
+    "category": [
+      "sightseeing"
+    ],
+    "area": "City Centre"
+  },
+  {
+    "id": "glasgow-buchanan-street",
+    "name": "Buchanan Street",
+    "city": "Glasgow",
+    "category": [
+      "shopping"
+    ],
+    "area": "City Centre"
+  },
+  {
+    "id": "glasgow-merchant-city",
+    "name": "Merchant City",
+    "city": "Glasgow",
+    "category": [
+      "food_cafe",
+      "shopping",
+      "sightseeing"
+    ],
+    "area": "Merchant City"
+  },
+  {
+    "id": "glasgow-pollok-country-park",
+    "name": "Pollok Country Park",
+    "city": "Glasgow",
+    "category": [
+      "nature",
+      "sightseeing"
+    ],
+    "area": "Pollokshaws"
+  },
+  {
+    "id": "cardiff-cardiff-castle",
+    "name": "Cardiff Castle",
+    "city": "Cardiff",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "City Centre"
+  },
+  {
+    "id": "cardiff-national-museum-cardiff",
+    "name": "National Museum Cardiff",
+    "city": "Cardiff",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Cathays Park"
+  },
+  {
+    "id": "cardiff-bute-park",
+    "name": "Bute Park",
+    "city": "Cardiff",
+    "category": [
+      "nature",
+      "sightseeing"
+    ],
+    "area": "City Centre"
+  },
+  {
+    "id": "cardiff-cardiff-bay",
+    "name": "Cardiff Bay",
+    "city": "Cardiff",
+    "category": [
+      "sightseeing",
+      "food_cafe"
+    ],
+    "area": "Cardiff Bay"
+  },
+  {
+    "id": "cardiff-wales-millennium-centre",
+    "name": "Wales Millennium Centre",
+    "city": "Cardiff",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "Cardiff Bay"
+  },
+  {
+    "id": "cardiff-st-fagans-national-museum-of-history",
+    "name": "St Fagans National Museum of History",
+    "city": "Cardiff",
+    "category": [
+      "history_culture",
+      "sightseeing"
+    ],
+    "area": "St Fagans"
+  },
+  {
+    "id": "cardiff-principality-stadium",
+    "name": "Principality Stadium",
+    "city": "Cardiff",
+    "category": [
+      "sightseeing"
+    ],
+    "area": "City Centre"
+  },
+  {
+    "id": "cardiff-cardiff-central-market",
+    "name": "Cardiff Central Market",
+    "city": "Cardiff",
+    "category": [
+      "food_cafe",
+      "shopping"
+    ],
+    "area": "City Centre"
+  },
+  {
+    "id": "cardiff-roath-park",
+    "name": "Roath Park",
+    "city": "Cardiff",
+    "category": [
+      "nature"
+    ],
+    "area": "Roath"
+  },
+  {
+    "id": "cardiff-castle-quarter-arcades",
+    "name": "Castle Quarter Arcades",
+    "city": "Cardiff",
+    "category": [
+      "shopping",
+      "food_cafe"
+    ],
+    "area": "City Centre"
+  }
+]

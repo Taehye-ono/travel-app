@@ -1,0 +1,58 @@
+# Dependencies, build output, and caches
+node_modules/
+.next/
+out/
+dist/
+.npm-cache/
+.cache/
+*.tsbuildinfo
+
+# Environment files and local credentials
+.env*
+!.env.example
+.vercel/
+.local/
+.npmrc
+.netrc
+.auth/
+.aws/
+.ssh/
+supabase/.temp/
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+id_ecdsa
+credentials.json
+credentials.*.json
+service-account*.json
+*-service-account.json
+
+# Test artifacts and logs
+test-results/
+playwright-report/
+coverage/
+*.log
+
+# Local backups, database files, and archives
+backups/
+dumps/
+*.bak
+*.sqlite
+*.sqlite3
+*.db
+*.zip
+*.7z
+*.rar
+*.tar
+*.tgz
+*.tar.gz
+
+# Machine-specific editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini

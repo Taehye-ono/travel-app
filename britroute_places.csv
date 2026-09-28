@@ -1,0 +1,41 @@
+id,name,city,category,area
+london-british-museum,British Museum,London,"history_culture, sightseeing",Bloomsbury
+london-tower-of-london,Tower of London,London,"history_culture, sightseeing",Tower Hill
+london-tower-bridge,Tower Bridge,London,sightseeing,Tower Bridge
+london-borough-market,Borough Market,London,"food_cafe, sightseeing",Southwark
+london-covent-garden,Covent Garden,London,"shopping, food_cafe, sightseeing",Covent Garden
+london-hyde-park,Hyde Park,London,nature,Hyde Park
+london-national-gallery,National Gallery,London,"history_culture, sightseeing",Trafalgar Square
+london-camden-market,Camden Market,London,"shopping, food_cafe",Camden
+london-westminster-abbey,Westminster Abbey,London,"history_culture, sightseeing",Westminster
+london-oxford-street,Oxford Street,London,shopping,West End
+edinburgh-edinburgh-castle,Edinburgh Castle,Edinburgh,"history_culture, sightseeing",Old Town
+edinburgh-royal-mile,Royal Mile,Edinburgh,"history_culture, shopping, sightseeing",Old Town
+edinburgh-arthur-s-seat,Arthur's Seat,Edinburgh,"nature, sightseeing",Holyrood
+edinburgh-palace-of-holyroodhouse,Palace of Holyroodhouse,Edinburgh,"history_culture, sightseeing",Holyrood
+edinburgh-national-museum-of-scotland,National Museum of Scotland,Edinburgh,"history_culture, sightseeing",Old Town
+edinburgh-calton-hill,Calton Hill,Edinburgh,"nature, sightseeing",New Town
+edinburgh-victoria-street,Victoria Street,Edinburgh,"shopping, food_cafe, sightseeing",Old Town
+edinburgh-dean-village,Dean Village,Edinburgh,"sightseeing, nature",Dean Village
+edinburgh-princes-street,Princes Street,Edinburgh,"shopping, sightseeing",New Town
+edinburgh-stockbridge,Stockbridge,Edinburgh,"food_cafe, shopping",Stockbridge
+glasgow-kelvingrove-art-gallery-and-museum,Kelvingrove Art Gallery and Museum,Glasgow,"history_culture, sightseeing",Kelvingrove
+glasgow-university-of-glasgow,University of Glasgow,Glasgow,"history_culture, sightseeing",Hillhead
+glasgow-glasgow-botanic-gardens,Glasgow Botanic Gardens,Glasgow,nature,Hillhead
+glasgow-glasgow-cathedral,Glasgow Cathedral,Glasgow,"history_culture, sightseeing",Cathedral Precinct
+glasgow-glasgow-necropolis,Glasgow Necropolis,Glasgow,"history_culture, sightseeing",Cathedral Precinct
+glasgow-riverside-museum,Riverside Museum,Glasgow,"history_culture, sightseeing",Partick
+glasgow-george-square,George Square,Glasgow,sightseeing,City Centre
+glasgow-buchanan-street,Buchanan Street,Glasgow,shopping,City Centre
+glasgow-merchant-city,Merchant City,Glasgow,"food_cafe, shopping, sightseeing",Merchant City
+glasgow-pollok-country-park,Pollok Country Park,Glasgow,"nature, sightseeing",Pollokshaws
+cardiff-cardiff-castle,Cardiff Castle,Cardiff,"history_culture, sightseeing",City Centre
+cardiff-national-museum-cardiff,National Museum Cardiff,Cardiff,"history_culture, sightseeing",Cathays Park
+cardiff-bute-park,Bute Park,Cardiff,"nature, sightseeing",City Centre
+cardiff-cardiff-bay,Cardiff Bay,Cardiff,"sightseeing, food_cafe",Cardiff Bay
+cardiff-wales-millennium-centre,Wales Millennium Centre,Cardiff,"history_culture, sightseeing",Cardiff Bay
+cardiff-st-fagans-national-museum-of-history,St Fagans National Museum of History,Cardiff,"history_culture, sightseeing",St Fagans
+cardiff-principality-stadium,Principality Stadium,Cardiff,sightseeing,City Centre
+cardiff-cardiff-central-market,Cardiff Central Market,Cardiff,"food_cafe, shopping",City Centre
+cardiff-roath-park,Roath Park,Cardiff,nature,Roath
+cardiff-castle-quarter-arcades,Castle Quarter Arcades,Cardiff,"shopping, food_cafe",City Centre
